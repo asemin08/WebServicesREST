@@ -17,15 +17,12 @@ public class ClientLauncher {
 
         // Status 200 is successful.
         if (response.getStatus() != 200) {
-            System.out.println("Failed with HTTP Error code: " + response.getStatus());
             String error= response.getEntity(String.class);
             System.out.println("Error: "+error);
             return;
         }
 
         String output = response.getEntity(String.class);
-
-        System.out.println("Output from Server .... \n");
         System.out.println(output);
     }
 }

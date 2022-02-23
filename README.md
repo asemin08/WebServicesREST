@@ -12,4 +12,4 @@ java jdk 8
 Nom du projet | Description | Lien
 ---|---|----
 JerseyFirstTest | Premier WS avec Jersey et déployer sur un serveur tomcat avec un appel get + get et params et post methods| [testJersey](https://github.com/asemin08/WebServicesREST/tree/testJersey)
-Jackson | Premier WS avec mise en oeuvre JSON avec Jackson| [testJackson](https://github.com/asemin08/WebServicesREST/tree/testJackson)
+tp8 | Passage Objet vers JSON avec Jackson| [tp8](https://github.com/asemin08/WebServicesREST/tree/tp8)

@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="demorestfullws:war">
-    <output-path>$PROJECT_DIR$/build</output-path>
-    <root id="archive" name="demorestfullws.war">
-      <element id="artifact" artifact-name="demorestfullws:war exploded" />
-    </root>
-  </artifact>
-</component>

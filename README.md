@@ -34,11 +34,12 @@ Pour tester le deuxième endpoint
 5. Aller sur File/New
 6. Cliquer sur httpRequest
 7. Remplir comme ci-dessous 
-![methodGet](https://github.com/asemin08/WebServicesREST/blob/tp9/imgs/methodGet.png)
+![methodPost-1](https://github.com/asemin08/WebServicesREST/blob/tp9/MethodPost-1.png)
 </br>8. Remplir comme ci-dessous
-![methodPost](https://github.com/asemin08/WebServicesREST/blob/tp9/imgs/methodPost.png)
+![methodPost-2](https://github.com/asemin08/WebServicesREST/blob/tp9/MethodPost-2.png)
 10. Cliquer sur send pour exécuter la requete
-
+11. Avoir le résultat ci-dessous
+![methodPost-2](https://github.com/asemin08/WebServicesREST/blob/tp9/MethodPost-3.png)
 
 ## liste des projet
 

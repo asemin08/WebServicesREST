@@ -17,7 +17,7 @@ Mise en place d'un client pour appeler un webservice rest sous JAX-RS 1 avec Jer
 
 Nom du projet | Description | Lien
 ---|---|----
-tp7 | Premier WS avec Jersey et déployer sur un serveur tomcat avec un appel get + get et params et post methods| [testJersey](https://github.com/asemin08/WebServicesREST/tree/tp7)
+tp7 | Premier WS avec Jersey et déployer sur un serveur tomcat avec un appel get + get et params et post methods| [tp7](https://github.com/asemin08/WebServicesREST/tree/tp7)
 tp8 | Passage Objet vers JSON avec Jackson| [tp8](https://github.com/asemin08/WebServicesREST/tree/tp8)
 tp9 | création d'un WebService JAX-RS 1 avec Jersey / Jackson | [tp9](https://github.com/asemin08/WebServicesREST/tree/tp9)
 tp10 |création d'un WebService JAX-RS 2 avec Jersey | [tp10](https://github.com/asemin08/WebServicesREST/tree/tp10)

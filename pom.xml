@@ -7,9 +7,9 @@
   <groupId>eu.ensup.allan.demowsrest</groupId>
   <artifactId>restfulexample</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
 
-  <name>restfulexample Maven Webapp</name>
+  <name>restfullexample Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -17,6 +17,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
+    <exec.mainClass>eu.ensup.allan.demowsrest.client.ClientLauncher</exec.mainClass>
   </properties>
 
   <dependencies>
@@ -45,7 +46,7 @@
   </dependencies>
 
   <build>
-    <finalName>restfulexample</finalName>
+    <finalName>restfullexample</finalName>
     <plugins>
         <plugin>
           <artifactId>maven-compiler-plugin</artifactId>

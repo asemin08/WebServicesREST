@@ -6,7 +6,13 @@ Test de mise en place de webservice sous REST
 
 ## Pré-requis
 java jdk 8
+maven 3.8.4
+Tomcat en marche avec le webservice du tp9 en marche (Voir [tp9](https://github.com/asemin08/WebServicesREST/tree/tp9))
 
+## Démarrer le client 
+1. Ouvrir un terminal à la racine du projet 
+2. Compiler les class java : `mvn compile`
+3. Exécuter le client : `mvn exec:java`
 ## liste des projet
 
 Nom du projet | Description | Lien

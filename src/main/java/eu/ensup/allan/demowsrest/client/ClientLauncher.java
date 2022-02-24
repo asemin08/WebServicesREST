@@ -4,14 +4,13 @@ import com.sun.jersey.api.client.Client;
 import com.sun.jersey.api.client.ClientResponse;
 import com.sun.jersey.api.client.WebResource;
 
-import eu.ensup.allan.demowsrest.domaine.Track;
 
 public class ClientLauncher {
     public static void main( String[] args ) {
         // Create Client
         Client client = Client.create();
 
-        WebResource webResource = client.resource("http://localhost:8080/restfulexample/rest/json/metallica/get");
+        WebResource webResource = client.resource("http://localhost:8080/restfullexample/rest/json/metallica/get");
 
         ClientResponse response = webResource.accept("application/json").get(ClientResponse.class);
 

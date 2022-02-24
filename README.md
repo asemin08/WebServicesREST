@@ -6,7 +6,7 @@ Test de mise en place de webservice sous REST
 
 ## Pré-requis
 * java jdk 8
-* tomcat version 9.58
+* tomcat version 9
 * Déployer le fichier war ce trouvant à la racine du dossier
 
 

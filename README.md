@@ -10,7 +10,7 @@ maven 3.8.4
 
 ## Démarrer
 1. Ouvrir un terminal à la racine du projet
-2. Compiler le projet : ```mvn clean```
+2. Compiler le projet : ```mvn compile```
 3. Exécuter le projet : ````mvn exec:java````
 4. Vérifier que le fichier employe.json à été créer
 

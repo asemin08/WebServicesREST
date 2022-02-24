@@ -2,7 +2,7 @@
 
 ## Projet
 
-Test de mise en place de webservice sous REST 
+Mise en place d'un client pour appeler un webservice rest sous JAX-RS 1 avec Jersey et Jackson
 
 ## Pré-requis
 java jdk 8

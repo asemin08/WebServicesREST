@@ -29,3 +29,13 @@ Premier Webservice avec Jersey et déployer sur un serveur tomcat avec un appel 
 7. Pour tester la méthode post revenir sur la page d'accueil [Page post](http://localhost:8080/demorestfullws/) et remplir le formulaire et le valider
 8. Pour vérifier la méthode post vous devrez arriver sur une page avec ce que vous avais saisie dans le formulaire.
 
+## liste des projet
+
+Nom du projet | Description | Lien
+---|---|----
+tp7 | Premier WS avec Jersey et déployer sur un serveur tomcat avec un appel get + get et params et post methods| [tp7](https://github.com/asemin08/WebServicesREST/tree/tp7)
+tp8 | Passage Objet vers JSON avec Jackson| [tp8](https://github.com/asemin08/WebServicesREST/tree/tp8)
+tp9 | création d'un WebService JAX-RS 1 avec Jersey / Jackson | [tp9](https://github.com/asemin08/WebServicesREST/tree/tp9)
+tp10 |création d'un WebService JAX-RS 2 avec Jersey | [tp10](https://github.com/asemin08/WebServicesREST/tree/tp10)
+tp11 | Client Web Service JAX-RS 1 | [tp11](https://github.com/asemin08/WebServicesREST/tree/tp11)
+tp12 | Client Web Service JAX-RS 2 | [tp12](https://github.com/asemin08/WebServicesREST/tree/tp12)

@@ -27,7 +27,7 @@ postman
 
 ### Tester le webservice
 1. Ouvrir un navigateur
-2. ce rendre sur l'endpoint get de l'application[get Mettalica](http://localhost:8080/restfulexample/rest/json/metallica/get)
+2. ce rendre sur l'endpoint get de l'application[get Mettalica](http://localhost:8080/restfullexample/rest/json/metallica/get)
 3. Vous deviez avoir : {"singer":"Metallica","title":"Enter Sandman"} 
 Pour tester le deuxième endpoint
 4. Ouvrir postman

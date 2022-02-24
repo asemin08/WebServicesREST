@@ -7,8 +7,17 @@ Test de mise en place de webservice sous REST
 ## Pré-requis
 * java jdk 8
 * tomcat version 9
-* Déployer le fichier war ce trouvant à la racine du dossier
 
+### Déploiement du webservice
+
+1. Vérifier si le fichier demorestfullws.war est bien présent dans le dossier. (build => demorestfullws.war)
+5. Ouvrir un navigateur
+6. Ce rendre sur la page pour déployer un war sur tomcat :(si installer en local [tomcat](http://localhost:8080/manager/html))
+7. S'authentifier
+8. Trouver la section "Fichier WAR à déployer"
+9. Cliquer sur "Choisir un fichier" et séléctionner le fichier demorestfullws.war
+10. Cliquer sur déployer
+11. Vérifier que webservice est présent dans la liste des applications déployer
 
 ## Test de l'application 
 1. Ouvrir un navigateur de votre choix

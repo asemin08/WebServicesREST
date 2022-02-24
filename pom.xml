@@ -7,7 +7,7 @@
   <groupId>eu.ensup.allan.demowsrest</groupId>
   <artifactId>monwebservicerest</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
 
   <name>monwebservicerest Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
@@ -19,6 +19,7 @@
     <maven.compiler.target>1.7</maven.compiler.target>
     <jersey2.version>2.19</jersey2.version>
     <jaxrs.version>2.0.1</jaxrs.version>
+    <exec.mainClass>client.Clientlauncher</exec.mainClass>
   </properties>
 
   <dependencies>

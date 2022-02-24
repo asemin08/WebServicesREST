@@ -2,7 +2,7 @@
 
 ## Projet
 
-Test de mise en place de webservice sous REST
+Test de mise en place d'un webservice qui passe un Object vers Json avec Jackson
 
 ## Pré-requis
 java jdk 8

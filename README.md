@@ -35,7 +35,7 @@ Pour tester le deuxième endpoint
 6. Cliquer sur httpRequest
 7. Remplir comme ci-dessous 
 ![methodGet](https://github.com/asemin08/WebServicesREST/blob/tp9/imgs/methodGet.png)
-8. Remplir comme ci-dessous
+</br>8. Remplir comme ci-dessous
 ![methodPost](https://github.com/asemin08/WebServicesREST/blob/tp9/imgs/methodPost.png)
 10. Cliquer sur send pour exécuter la requete
 

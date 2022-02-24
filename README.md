@@ -2,7 +2,7 @@
 
 ## Projet
 
-Test de mise en place de webservice sous REST 
+Premier Webservice avec Jersey et déployer sur un serveur tomcat avec un appel get + get et params et post methods
 
 ## Pré-requis
 * java jdk 8

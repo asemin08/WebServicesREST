@@ -37,9 +37,13 @@ Pour tester le deuxième endpoint
 ![methodPost-1](https://github.com/asemin08/WebServicesREST/blob/tp9/MethodPost-1.png)
 </br>8. Remplir comme ci-dessous
 ![methodPost-2](https://github.com/asemin08/WebServicesREST/blob/tp9/MethodPost-2.png)
-10. Cliquer sur send pour exécuter la requete
-11. Avoir le résultat ci-dessous
+8. Cliquer sur send pour exécuter la requete
+9. Avoir le résultat ci-dessous
 ![methodPost-2](https://github.com/asemin08/WebServicesREST/blob/tp9/MethodPost-3.png)
+
+## Documentation
+1. Ouvrir un navigateur
+2. Ce rendre sur : 
 
 ## liste des projet
 

@@ -5,7 +5,7 @@
 Mise en place de la documentation sur les Webservice avec Jax-RS 1 et JAX-RS2.
 
 Pour Jax-RS 1 : Ce rendre ici [tp9](https://github.com/asemin08/WebServicesREST/tree/tp9) voir section documentation
-Pour Jax-RS 2 : Ce rendre ici [tp10](https://github.com/asemin08/WebServicesREST/tree/tp10) voir section documentation
+<br/>Pour Jax-RS 2 : Ce rendre ici [tp10](https://github.com/asemin08/WebServicesREST/tree/tp10) voir section documentation
 
 ## liste des projet
 

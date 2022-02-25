@@ -43,7 +43,7 @@ Pour tester le deuxième endpoint
 
 ## Documentation
 1. Ouvrir un navigateur
-2. Ce rendre sur : 
+2. Ce rendre sur : [doc](http://localhost:8080/restfullexample/swagger-ui/index.html)
 
 ## liste des projet
 

@@ -1,0 +1,8 @@
+prettyPrint: true
+cacheTTL: 0
+openAPI:
+  info:
+    version: '1.0.0'
+    title: 'tp10 JAX-RS 2 webservice Documentation'
+  servers:
+    - url: '/monwebservicerest/rest'

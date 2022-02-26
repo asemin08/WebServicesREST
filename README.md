@@ -27,6 +27,11 @@ Mise en place d'un webservice avec Jax-RS 2 plus Jersey
 2. ce rendre sur l'endpoint get de l'application[hello jersey](http://localhost:8080/monwebservicerest/rest/message)
 3. Vous deviez avoir : Hello World !! - Jersey 2
 
+## Documentation
+1. Ouvrir un navigateur
+2. Ce rendre sur ce lien [documentation](http://localhost:8080/monwebservicerest/swagger-ui/index.html)
+
+
 ## liste des projet
 
 Nom du projet | Description | Lien
